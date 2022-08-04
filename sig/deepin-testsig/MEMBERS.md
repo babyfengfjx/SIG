@@ -10,6 +10,7 @@
 ## 小组管理员
 
 - [babyfengfjx](https://github.com/babyfengfjx)  
+- [xuqi27837288](https://github.com/xuqi27837288)  
 
 ## 小组成员
 
